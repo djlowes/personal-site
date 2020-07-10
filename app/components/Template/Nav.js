@@ -1,36 +1,108 @@
-import React from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import { Link } from 'react-router-dom';
-
+import { Helmet } from 'react-helmet';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 
 import data from '../../data/contact';
 
-const Nav = () => (
+// Validates the first half of an email address.
+const validateText = (text) => {
+  // NOTE: Passes RFC 5322 but not tested on google's standard.
+  // eslint-disable-next-line no-useless-escape
+  const re = /^(([^<>()\[\]\.,;:\s@\"]+(\.[^<>()\[\]\.,;:\s@\"]+)*)|(\".+\"))$/;
+  return re.test(text) || text.length === 0;
+};
+
+const messages = [
+  'anything',
+  'like',
+  'hi',
+  'whatsup',
+  'gday-mate',
+  'you-can-contact-me-on-anything',
+  'well, not anything!',
+  'but-most-things',
+  'you get the point..',
+  'whoops',
+  'if-you-would-like-to-reach-me',
+  'be-specific-and-use-an-email-such-as',
+  'work',
+  'roadmap',
+  'or-even',
+  'coffee',
+  'i-will-stop-distracting-you-now',
+  'or-will-I.....',
+  'thanks',
+];
+
+const useInterval = (callback, delay) => {
+  const savedCallback = useRef();
+
+  useEffect(() => {
+    savedCallback.current = callback;
+  }, [callback]);
+
+  useEffect(() => {
+    if (delay) {
+      const id = setInterval(() => {
+        savedCallback.current();
+      }, delay);
+      return () => clearInterval(id);
+    }
+    return () => {}; // pass linter
+  }, [delay]);
+};
+
+const Nav = () => {
+  const hold = 50; // ticks to wait after message is complete before rendering next message
+  const delay = 50; // tick length in mS
+
+  const [idx, updateIter] = useState(0); // points to current message
+  const [message, updateMessage] = useState(messages[idx]);
+  const [char, updateChar] = useState(messages[idx].length); // points to current char
+  const [isActive, setIsActive] = useState(true); // disable when all messages are printed
+
+  useInterval(() => {
+    let newIdx = idx;
+    let newChar = char;
+    if (char - hold >= messages[idx].length) {
+      newIdx += 1;
+      newChar = 0;
+    }
+    if (newIdx === messages.length) {
+      setIsActive(false);
+    } else {
+      updateMessage(messages[newIdx].slice(0, newChar));
+      updateIter(newIdx);
+      updateChar(newChar + 1);
+    }
+  }, isActive ? delay : null);
+
+  return (
   <section id="sidebar">
     <section id="intro">
       <Link to="/" className="logo">
-        <img src={`${BASE_PATH}/images/me_icon.jpg`} alt="" />
+        <img src={`${BASE_PATH}/images/me_icon.jpeg`} alt="" />
       </Link>
       <header>
-        <h2>Michael D&apos;Angelo</h2>
-        <p><a href="mailto:michael.l.dangelo@gmail.com">michael.l.dangelo@gmail.com</a></p>
+        <h2>David J Lowes</h2>
+        <b>Get in touch at</b>
+        <div
+          className="inline-container"
+          style={validateText(message) ? {} : { color: 'red' }}
+          onMouseEnter={() => setIsActive(false)}
+          onMouseLeave={() => (idx < messages.length) && setIsActive(true)}
+        >
+          <a href={validateText(message) ? `mailto:${message}@djlowes.com` : ''}>
+            <span>{message}</span>
+            <span>@djlowes.com</span>
+          </a>
+        </div>
       </header>
     </section>
 
-    <section className="blurb">
-      <h2>About</h2>
-      <p>Hi, I&apos;m Michael. I like building things.
-        I am a <a href="https://icme.stanford.edu/">Stanford ICME</a> graduate, YC Alumni, and
-        the co-founder and CTO of <a href="https://arthena.com">Arthena</a>. Before Arthena I was
-        at <a href="https://matroid.com">Matroid</a>, <a href="https://planet.com">Planet</a>, <a href="https://planetaryresources.com">Planetary Resources</a>, <a href="https://facebook.com">Facebook</a>, and <a href="https://seds.org">SEDS</a>.
-      </p>
-      <ul className="actions">
-        <li>
-          {window.location.pathname !== `${BASE_PATH}/resume` ? <Link to="/resume" className="button">Learn More</Link> : <Link to="/about" className="button">About Me</Link>}
-        </li>
-      </ul>
-    </section>
+
 
     <section id="footer">
       <ul className="icons">
@@ -42,9 +114,10 @@ const Nav = () => (
           </li>
         ))}
       </ul>
-      <p className="copyright">&copy; Michael D&apos;Angelo <Link to="/">mldangelo.com</Link>.</p>
+      <p className="copyright">Site built on react using<Link to="https://github.com/mldangelo/personal-site"> Michael D&apos;Angelo's react app</Link>. Using <Link to="https://www.sanity.io/">Sanity</Link> as headless CMS</p>
     </section>
   </section>
 );
+};
 
 export default Nav;
