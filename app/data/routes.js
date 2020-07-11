@@ -9,20 +9,20 @@ const data = [
     label: 'About',
   },
   {
-    path: '/resume',
-    label: 'Resume',
+    path: '/writing',
+    label: 'Writing',
   },
   {
-    path: '/projects',
-    label: 'Projects',
+    path: '/worked-with',
+    label: 'Worked with',
   },
   {
-    path: '/stats',
-    label: 'Stats',
+    path: '/want-to',
+    label: 'Want to work with',
   },
   {
-    path: '/contact',
-    label: 'Contact',
+    path: '/top-10',
+    label: "Top 10's",
   },
 ];
 

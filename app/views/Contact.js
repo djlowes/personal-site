@@ -1,11 +1,16 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { Link } from 'react-router-dom';
-import { Helmet } from 'react-helmet';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 import Main from '../layouts/Main';
 
 import data from '../data/contact';
+
+// const BlockContent = require('@sanity/block-content-to-react')
+// const client = require('@sanity/client')({
+//   projectId: '<your project id>',
+//   dataset: '<some dataset>',
+//   useCdn: true
+// })
 
 // Validates the first half of an email address.
 const validateText = (text) => {
