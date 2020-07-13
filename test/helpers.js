@@ -16,9 +16,9 @@ const pages = [
     heading: 'ABOUT ME',
   },
   {
-    route: '/projects',
-    title: 'Projects | Michael D\'Angelo',
-    heading: 'PROJECTS',
+    route: '/worked-with',
+    title: 'Clients | David Lowes',
+    heading: 'WHO I"VE WORKED WITH',
   },
   {
     route: '/stats',

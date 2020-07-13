@@ -48,9 +48,22 @@ export default {
           loader: 'raw-loader',
         }],
       }, {
-        test: /\.css$/,
-        loader: 'style-loader!css-loader?modules&localIdentName=[name]---[local]---[hash:base64:5]',
-      }, {
+    test: /\.css$/,
+    use: [
+        {
+            loader: 'style-loader'
+        },
+        {
+            loader: 'css-loader',
+            options: {
+                importLoaders: 1,
+                modules: {
+                    localIdentName: '[name]__[local]___[hash:base64:5]'
+                }
+            }
+        }
+    ]
+}, {
         test: /\.scss$/,
         loaders: 'style-loader!css-loader!sass-loader',
       }, {
@@ -64,6 +77,10 @@ export default {
         test: /\.(ttf|eot|svg)(\?v=[0-9]\.[0-9]\.[0-9])?$/,
         loader: 'file-loader',
       },
+      {
+   test: /\.(png|svg|jpg|gif)$/,
+   loader: 'file-loader',
+ },
     ],
   },
 };

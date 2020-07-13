@@ -12,9 +12,11 @@ import NotFound from './views/NotFound';
 import Projects from './views/Projects';
 import Resume from './views/Resume';
 import Stats from './views/Stats';
+import Clients from './views/Clients';
 
 // All of our CSS
 import './static/css/main.scss';
+import "./static/css/views/modal.css";
 
 ReactDOM.render(
   <Router basename={BASE_PATH}>
@@ -25,6 +27,7 @@ ReactDOM.render(
       <Route path="/stats" component={Stats} />
       <Route path="/contact" component={Contact} />
       <Route path="/resume" component={Resume} />
+      <Route path="/worked-with" component={Clients} />
       {/* Only useful in development mode */}
       <Route component={NotFound} status={404} />
     </Switch>

@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 import Main from "../layouts/Main";
 import work from "../data/work";
 
-import { Modal } from 'react-responsive-modal';
+import { Modal } from "react-responsive-modal";
 
 const style = { display: "flex", alignItems: "center" };
 
@@ -33,14 +33,14 @@ class Index extends React.Component {
               </h2>
               <p>
                 Startup guy, always wearing lots of hats, fascinated by
-                behavioral science
+                performance psychology
               </p>
             </div>
           </header>
           <p>Here's a snapshot of what I've been doing lately:</p>
           <span style={style}>
             <img src={work.twilio.image} alt="de_novo" height={22} width={22} />
-            &nbsp;Technical lead through exponential growth at{" "}
+            &nbsp;Technical lead through rocketship growth at{" "}
             <a href="https://twilio.com" target="_blank">
               &nbsp;twilio.&nbsp;
             </a>
@@ -49,12 +49,15 @@ class Index extends React.Component {
               &nbsp;here
             </a>
             <Modal open={open} onClose={this.onCloseModal} center>
-              <h1>Simple centered modal</h1>
-              <h1>Simple centered modal</h1>
-              <h1>Simple centered modal</h1>
-              <h1>Simple centered modal</h1>
+              <img src={work.marketcap.image} alt="marketcap" />
             </Modal>
-            , now market cap is here.
+            , now market cap is{" "}
+            <a
+              href="https://ycharts.com/companies/TWLO/market_cap"
+              target="_blank"
+            >
+              &nbsp;here.
+            </a>
           </span>
           <span style={style}>
             <img src={work.yc.image} alt="de_novo" height={24} width={24} />
@@ -73,13 +76,20 @@ class Index extends React.Component {
             <a href="https://www.ycombinator.com/" target="_blank">
               &nbsp;YCombinator's&nbsp;
             </a>{" "}
-            W17 batch
+            W17 batch.
           </span>
           <span style={style}>
             <img src={work.google.image} alt="de_novo" height={24} width={24} />
-            &nbsp;Taught the basics of micro-moments at{" "}
+            &nbsp;Taught{" "}
             <a
               href="https://www.thinkwithgoogle.com/marketing-resources/micro-moments/micro-moments-understand-new-consumer-behavior/"
+              target="_blank"
+            >
+              &nbsp;micro-moments&nbsp;
+            </a>{" "}
+            at{" "}
+            <a
+              href="https://www.google.com/search?sxsrf=ALeKk01s0Y-q6n1bUQNqN5fsW9Kvx1J6Rw%3A1594499974392&source=hp&ei=hiMKX_ftFMnksAXBkbGoBw&q=what+you+searching+for%3F&oq=what+you+searching+for%3F&gs_lcp=CgZwc3ktYWIQAzIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeOgcIIxDqAhAnOgQIIxAnOgUIABCRAjoICAAQsQMQgwE6BQgAELEDOgIIADoECAAQClCtCVi7ImC-I2gBcAB4AIABaogBrAySAQQyMi4xmAEAoAEBqgEHZ3dzLXdperABCg&sclient=psy-ab&ved=0ahUKEwj3yMKkh8bqAhVJMqwKHcFIDHUQ4dUDCAk&uact=5"
               target="_blank"
             >
               &nbsp;Google.&nbsp;
@@ -94,7 +104,7 @@ class Index extends React.Component {
             >
               &nbsp;digital agency&nbsp;
             </a>{" "}
-            and sold it in an all-cash deal
+            and sold it in an all-cash deal.
           </span>
           <span style={style}>
             <img
@@ -110,16 +120,15 @@ class Index extends React.Component {
             >
               &nbsp;white-labelled SEO dashboard&nbsp;
             </a>{" "}
-            and sold it in an all-cash deal
+            and sold it in an all-cash deal.
           </span>
           <br />
           <p>
             If you want to read more about me, you can do that
-            <Link to="/about">&nbsp;here</Link>, or you can check out my{" "}
-            <Link to="/resume">resume</Link>,{" "}
-            <Link to="/projects">projects</Link>, view{" "}
-            <Link to="/stats">site statistics</Link>, or{" "}
-            <Link to="/contact">contact</Link> me.
+            <Link to="/about">&nbsp;here</Link>, or you can check out{" "}
+            <Link to="/writing">my writing</Link>, who I've{" "}
+            <Link to="/worked-with">worked with</Link>, or my{" "}
+            <Link to="/top-10s">top 10 books, blogs, podcasts and products</Link>.
           </p>
           <p>
             {" "}

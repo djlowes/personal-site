@@ -14,6 +14,9 @@ const work = {
   yc: {
     image: './images/work/YC.png',
   },
+  marketcap: {
+    image: './images/marketcap.png',
+  },
 };
 
 export default work;

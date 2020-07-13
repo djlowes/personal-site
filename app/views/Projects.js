@@ -5,16 +5,16 @@ import { Helmet } from 'react-helmet';
 import Main from '../layouts/Main';
 
 import Cell from '../components/Projects/Cell';
-import data from '../data/projects';
+import data from '../data/clients';
 
-const Projects = () => (
+const Clients = () => (
   <Main>
     <Helmet title="Projects" />
     <article className="post" id="projects">
       <header>
         <div className="title">
-          <h2><Link to="/projects">Projects</Link></h2>
-          <p>A selection of projects that I&apos;m not too ashamed of</p>
+          <h2><Link to="/worked-with">Who I've worked with</Link></h2>
+          <p>In the last 10 years I've worked with product teams, engineering teams and executives at these companies</p>
         </div>
       </header>
       {data.map((project) => (
@@ -27,4 +27,4 @@ const Projects = () => (
   </Main>
 );
 
-export default Projects;
+export default Clients;
