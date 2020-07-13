@@ -7,23 +7,23 @@ const randomString = (length) => {
 const pages = [
   {
     route: '/',
-    title: 'Michael D\'Angelo',
-    heading: 'ABOUT THIS SITE',
+    title: 'David J Lowes',
+    heading: 'ME',
   },
   {
     route: '/about',
-    title: 'About | Michael D\'Angelo',
-    heading: 'ABOUT ME',
+    title: 'About | David J Lowes',
+    heading: 'MORE ABOUT ME',
   },
   {
     route: '/worked-with',
-    title: 'Clients | David Lowes',
+    title: 'Clients | David J Lowes',
     heading: 'WHO I"VE WORKED WITH',
   },
   {
-    route: '/stats',
-    title: 'Stats | Michael D\'Angelo',
-    heading: 'STATS',
+    route: '/writing',
+    title: 'Essays | David J Lowes',
+    heading: 'ESSAYS',
   },
   {
     route: '/contact',

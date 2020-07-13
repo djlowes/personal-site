@@ -5,7 +5,7 @@ import { Helmet } from 'react-helmet';
 import Main from '../layouts/Main';
 
 import Cell from '../components/Projects/Cell';
-import data from '../data/clients';
+import data from '../data/images';
 
 const Clients = () => (
   <Main>

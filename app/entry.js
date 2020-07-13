@@ -24,7 +24,7 @@ ReactDOM.render(
       <Route exact path="/" component={Index} />
       <Route path="/about" component={About} />
       <Route path="/projects" component={Projects} />
-      <Route path="/stats" component={Stats} />
+      <Route path="/want-to" component={Stats} />
       <Route path="/contact" component={Contact} />
       <Route path="/resume" component={Resume} />
       <Route path="/worked-with" component={Clients} />

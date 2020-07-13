@@ -221,9 +221,6 @@
 			}
 
 			article {
-				@include vendor('display', 'flex');
-				@include vendor('align-items', 'flex-start');
-				@include vendor('flex-direction', 'row-reverse');
 
 				.image {
 					display: block;
