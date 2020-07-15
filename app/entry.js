@@ -6,12 +6,10 @@ import {
 
 // Featured
 import About from './views/About';
-import Contact from './views/Contact';
 import Index from './views/Index';
 import NotFound from './views/NotFound';
-import Projects from './views/Projects';
-import Resume from './views/Resume';
-import Stats from './views/Stats';
+import Top10 from './views/Top10';
+import People from './views/People';
 import Clients from './views/Clients';
 
 // All of our CSS
@@ -23,10 +21,8 @@ ReactDOM.render(
     <Switch>
       <Route exact path="/" component={Index} />
       <Route path="/about" component={About} />
-      <Route path="/projects" component={Projects} />
-      <Route path="/want-to" component={Stats} />
-      <Route path="/contact" component={Contact} />
-      <Route path="/resume" component={Resume} />
+      <Route path="/want-to" component={People} />
+      <Route path="/top-10" component={Top10} />
       <Route path="/worked-with" component={Clients} />
       {/* Only useful in development mode */}
       <Route component={NotFound} status={404} />

@@ -17,10 +17,6 @@ const data = [
     label: 'Worked with',
   },
   {
-    path: '/want-to',
-    label: 'Want to work with',
-  },
-  {
     path: '/top-10',
     label: "Top 10's",
   },

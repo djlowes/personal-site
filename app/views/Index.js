@@ -32,12 +32,12 @@ class Index extends React.Component {
                 <Link to="/">Me?</Link>
               </h2>
               <p>
-                Startup guy, always wearing lots of hats, fascinated by
+                Startup guy, fascinated by
                 performance psychology
               </p>
             </div>
           </header>
-          <p>Here's a snapshot of what I've been doing lately:</p>
+          <p>My condensed resume:</p>
           <span style={style}>
             <img src={work.twilio.image} alt="de_novo" height={22} width={22} />
             &nbsp;Technical lead through rocketship growth at{" "}
@@ -124,11 +124,11 @@ class Index extends React.Component {
           </span>
           <br />
           <p>
-            If you want to read more about me, you can do that
-            <Link to="/about">&nbsp;here</Link>, or you can check out{" "}
-            <Link to="/writing">my writing</Link>, who I've{" "}
-            <Link to="/worked-with">worked with</Link>, or my{" "}
-            <Link to="/top-10s">top 10 books, blogs, podcasts and products</Link>.
+            If you want to know more about me, here's an
+            <Link to="/about">&nbsp;extended bio</Link>. Sometimes I write about things at the intersection of business, technology and psychology, as you can see from{" "}
+            <Link to="/writing">my essays</Link>. I've worked with some{" "}
+            <Link to="/worked-with">world class teams</Link> and I like to learn. {" "}
+            <Link to="/top-10s">Here are my top 10 books, blogs, podcasts and products</Link>.
           </p>
           <p>
             {" "}

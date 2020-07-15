@@ -1,8 +1,31 @@
 
-#### Intro
-I am a co-founder and the CTO of [Arthena](https://arthena.com) where I work on engineering infrastructure and build tools to price fine art. My primary job functions are as a data scientist and software engineer.
-<br>
-I am available to consult on interesting projects. I am particularly interested in social impact, education, inclusivity, and space. I enjoy advising companies and may even be available for pro-bono work depending on the time commitment and the project. If you would like to arrange a meeting, I am based in New York but travel to the San Francisco Bay Area frequently.
+#### Probably not your normal bio
+There's no puffery here. I didn't hustle to make a 2x return on a can of coke at school, the first line of code I wrote wasn't until I was ~28 years old and I don't know how long it takes me to complete a Rubik's cube because I've never done it before. But I've done other stuff.
+<br><br>
+
+#### Stealing a car
+The actual charge is "". In 2000 I got into a high-speed chase with the police after stealing a car. one of the patrol unit's accelerator cable's snapped and they got run off the road. I was a minor. They caught me and they kicked my ass, it was a proper bashing.
+
+I was a smart kid with strong grades, but I was rebellious. I never really liked following rules, however this time I went too far. In 2001 I made a promise to apply myself to something useful.   
+
+- first time I was arrested
+stole a car yada yada
+
+- cleaned up my act, went to uni
+
+- partied hard, did drugs, fell by the ways side, dropped out
+
+- worked at a chicken boning factory, got in fights, got back on the straight and narrow
+
+- fell in love with consumer behavior, org. behavior
+
+- volunteering in thailand and my promise to give back
+
+[]
+
+I am a co-founder and the COO of [Junction](https://getjunction.io) where I work across both engineering and go-to-market. My primary job function is growth engineering.
+<br><br>
+Yeah, that sounded boring.    
 <br><br>
 #### Currently
 At Arthena I have learned how to build teams and manage people, build relationships with customers, sell enterprise products, and build on-line predictive models for production environments. I've also learned how to build and maintain large web applications (see [arthena.com](https://arthena.com)).

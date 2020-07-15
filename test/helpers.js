@@ -26,9 +26,9 @@ const pages = [
     heading: 'ESSAYS',
   },
   {
-    route: '/contact',
-    title: 'Contact | Michael D\'Angelo',
-    heading: 'CONTACT',
+    route: '/top-10',
+    title: 'Top 10s | David J Lowes',
+    heading: 'TOP 10s',
   },
 ];
 
