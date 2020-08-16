@@ -1,69 +1,41 @@
 
-#### Probably not your normal bio
-There's no puffery here. I didn't hustle to make a 2x return on a can of coke at school, the first line of code I wrote wasn't until I was ~28 years old and I don't know how long it takes me to complete a Rubik's cube because I've never done it before. But I've done other stuff.
-<br><br>
+#### Slightly bigger bio
+I'm a cross between [this guy](https://www.youtube.com/watch?v=9QCgqQdmr0M) and [this guy](https://www.youtube.com/watch?v=sVpsZxR89Mg). I do my best to balance a compulsive work habit and sickening dedication to completing a project with family time. If this isn't the best gift world, I don't know what is. [image]
 
-#### Stealing a car
-The actual charge is "". In 2000 I got into a high-speed chase with the police after stealing a car. one of the patrol unit's accelerator cable's snapped and they got run off the road. I was a minor. They caught me and they kicked my ass, it was a proper bashing.
 
-I was a smart kid with strong grades, but I was rebellious. I never really liked following rules, however this time I went too far. In 2001 I made a promise to apply myself to something useful.   
-
-- first time I was arrested
-stole a car yada yada
-
-- cleaned up my act, went to uni
-
-- partied hard, did drugs, fell by the ways side, dropped out
-
-- worked at a chicken boning factory, got in fights, got back on the straight and narrow
-
-- fell in love with consumer behavior, org. behavior
-
-- volunteering in thailand and my promise to give back
-
-[]
-
-I am a co-founder and the COO of [Junction](https://getjunction.io) where I work across both engineering and go-to-market. My primary job function is growth engineering.
-<br><br>
-Yeah, that sounded boring.    
+I try to stay compassionate (I even have it written on my arm) [image], but it's easy to get caught up in the hustle. I have constant shame and anxiety about not doing more in my life to date, but then I realize how lucky I am. [This is how many people live in extreme poverty around the world](https://worldpoverty.io/). I'm a very extroverted introvert, but not an ambivert. I'm an enneagram 3,1,8 (at the time of you reading this I probably have no idea what this means).
 <br><br>
 #### Currently
-At Arthena I have learned how to build teams and manage people, build relationships with customers, sell enterprise products, and build on-line predictive models for production environments. I've also learned how to build and maintain large web applications (see [arthena.com](https://arthena.com)).
+I am co-founder and COO at [Junction](https://getjunction.io).
 <br><br>
 #### Some history
-
-- My parents put a computer in my bedroom in 1993 when I was 3. It was an old Tandy that ran MS-DOS. My favorite games were Street Rod 2, Wolfenstein 3D, and Tom and Jerry. It had a mechanical keyboard and a turbo button. To this day, I still don't know what pressing the turbo button really did.
-
-- We subscribed to AOL in 1995. I still remember installing it from a floppy disk onto our brand new Packard Bell. It took years for me to send my first email.
-
-- In the summer of 1996, my uncle purchased [MegaRace](https://en.wikipedia.org/wiki/MegaRace) from [Media Play](https://en.wikipedia.org/wiki/Media_Play) and installed it on my mom's work computer. I might have endangered her business by using her computer too much.
-
-- At 7, I discovered the mini-games hidden in Microsoft Office. I also beat Minesweeper on expert for the first time.
-
-- At 8, my parents bought me a Sony Mavica MVC-FD71 digital camera after I stole their SLR one too many times. It could fit 10 images to a floppy disk at a 0.3MP resolution. I still have it and it still works. I've been taking photographs ever since, now with a Nikon D750, D800, and occasionally with a Mamiya 6II.
-
-- At 10, I built my first website with Microsoft FrontPage on our Pentium III [Gateway](https://en.wikipedia.org/wiki/Gateway,_Inc.). My website was terrible.
-
-- I was 11 when I built my first [Tesla Coil](https://en.wikipedia.org/wiki/Tesla_coil) (without the permission of my parents). Over the next few years, I built several more including one of the first audio modulated coils and one of the first DRSSTCs.
-
-- When I was 12, I set the all-time high record at my local laser tag facility by reverse engineering the charging station and weapon protocols with a photo-resistor, micro-cassette recorder, and a lot of patience. I was unstoppable.
-
-- At 13, I went to space camp and fell in love. I went back two more times and promised myself that I'd work in space. I've since helped build three generations of satellites and have tangentially worked on two more.
-
-- At 14, I was almost expelled for finding a backdoor into my high school's file server and telling everyone but the faculty members about it. Later that year, I figured out how to turn off the internet firewall by editing system registry keys. I anonymously shared my work months later.
-
-- At 16, I participated in a foreign exchange program in Dortmund, Germany. Since then, I've gone back almost every year.
-
-- 14 - 17, I played a lot of video games. My favorites included Counter Strike Source, Command and Conquer 3, Halo 2, and Age of Empires 3.
-
-- At 18, In the summer before college, my friends and I started playing <a href="https://en.wikipedia.org/wiki/Quidditch_(sport)">Muggle Quidditch</a>. We went on to start over 8 teams in the [International Quidditch Association](https://en.wikipedia.org/wiki/International_Quidditch_Association) including the [Buffalo Quidditch Society](https://www.facebook.com/buffaloquidditch/). At our height, we were ranked third in the IQA. Although I don't play anymore, you can still see pictures of me holding a broom while wearing a chess camp t-shirt on facebook.
-
-- At 19, I took my first graduate course and published my first academic paper.
-
-- At 20, I coauthored a grant to build a satellite and managed a 60+ person team through the end of undergrad. You can read more about that [here](https://ubnl.space/glados/).
-
-You can ask me in person for other stories that I'm afraid to share with the internet.
+In 2001, after ~14 years of school, a teacher was able to get my attention for the first time ever. Mr Finlay was my year 12 (senior) psychology teacher. I read the text-book front-to-back at least 4 times. Since then, I've been fascinated with how humans think, how the brain works and why we all do the things we do.
 <br><br>
+The only thing I love more than psychology is business. I tinkered with small side hustles during high-school and university [list therm here], but I mostly tinkered with being a free-spirited young adult (have you heard of the melbourne shuffle?). Ultimately this lead me to Thailand, which holds a special spot in my heart. I lived and volunteered at a children's shelter for 2 years. My biggest takeaway was that no matter where they come from, what their culture is like and how horrific their circumstances have been, kids are the same all over the world and it's inspiring how they can find the joy in things.
+<br><br>
+My other takeaway was the noble eightfold path, as best as I can, I try to live my life this way (I have this written body too)[link]. My favourite author Thich Nhat Hanh always does a great job of [explaining this teaching](https://tnhaudio.org/tag/noble-eightfold-path/),
+<br><br>
+After Thailand, I kept traveling. For a while........ [all the places I've been to]
+<br><br>
+When I got back home to Melbourne, Australia, it was time to get serious. I went back to school to get my Masters in Social Science. My bachelors degree was in business, majoring in organizational behavior, consumer behavior and organizational theory.
+[show transcript]
+<br><br>
+I've always loved psychology - how people work and how organization's function. Before, doing all of these jobs
+- model
+- actor
+- chicken boner
+- enthusiast
+I finally started my own business. I grew a team of X to X and did X. I exited in 2016.
+
+After that I taught workshops at Google
+
+Then I did Snappr and YCombinator
+
+Then twilio
+
+Now Junction
+
+
 #### I like
 - Skiing
 - Sailing and the sea

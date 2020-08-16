@@ -125,10 +125,9 @@ class Index extends React.Component {
           <br />
           <p>
             If you want to know more about me, here's an
-            <Link to="/about">&nbsp;extended bio</Link>. Sometimes I write about things at the intersection of business, technology and psychology, as you can see from{" "}
-            <Link to="/writing">my essays</Link>. I've worked with some{" "}
-            <Link to="/worked-with">world class teams</Link> and I like to learn. {" "}
-            <Link to="/top-10s">Here are my top 10 books, blogs, podcasts and products</Link>.
+            <Link to="/about">&nbsp;extended bio</Link>. Sometimes <Link to="/writing">I write about things</Link> at the intersection of business, technology and psychology. I've worked with some{" "}
+            <Link to="/worked-with">world class teams</Link> and I like to learn. Here are my
+            <Link to="/top-10s"> top 10 books, podcasts, movies, authors and peloton instructors</Link>.
           </p>
           <p>
             {" "}
