@@ -26,9 +26,9 @@ const pages = [
     heading: 'ESSAYS',
   },
   {
-    route: '/top-10',
-    title: 'Top 10s | David J Lowes',
-    heading: 'TOP 10s',
+    route: '/bucket-list',
+    title: 'Bucket List | David J Lowes',
+    heading: 'Bucket List',
   },
 ];
 

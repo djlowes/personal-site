@@ -17,8 +17,8 @@ const data = [
     label: 'Worked with',
   },
   {
-    path: '/top-10',
-    label: "Top 10's",
+    path: '/bucket-list',
+    label: "Bucket List",
   },
 ];
 

@@ -8,7 +8,7 @@ import {
 import About from './views/About';
 import Index from './views/Index';
 import NotFound from './views/NotFound';
-import Top10 from './views/Top10';
+import BucketList from './views/BucketList';
 import People from './views/People';
 import Clients from './views/Clients';
 
@@ -22,7 +22,7 @@ ReactDOM.render(
       <Route exact path="/" component={Index} />
       <Route path="/about" component={About} />
       <Route path="/want-to" component={People} />
-      <Route path="/top-10" component={Top10} />
+      <Route path="/bucket-list" component={BucketList} />
       <Route path="/worked-with" component={Clients} />
       {/* Only useful in development mode */}
       <Route component={NotFound} status={404} />

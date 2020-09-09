@@ -28,182 +28,30 @@ Wanting more technical experience, I taught myself how to code and sought after 
 Today, I'm reshaping how people work at Junction. It turns out my year 12 psychology teacher made an impact to my career afterall. Now I get to do both brain science and business!
 <br><br>
 
-#### Books
+#### Top 10 Books
+Generally I find it difficult to rank books, there are so many that I have loved. My top 10 list is based on how *impactful books have been on my everyday life*.<br><br>
+1. The Art of Communication - Thich Nhat Hanh<br>
+2. The Checklist Manifesto - Atul Gawande<br>
+3. Moonwalking with Einstein - Joshua Foer<br>
+4. Common Sense on Mutual Funds - John C. Bogle<br>
+5. Dare to Lead - Brene Brown<br>
+6. The Heart of the Buddha's Teachings - Thich Nhat Hanh<br>
+7. Bold - Peter Diamandis<br>
+8. Thinking Fast and Slow - Daniel Kahneman<br>
+9. A Complaint Free World - Will Bowen<br>
+10. Talking to Strangers - Malcolm Gladwell<br>
+<br>
 
+#### Drawing Inspiration From
+1. Cal Newport<br>
+2. Thich Nhat Hanh<br>
+3. Brene Brown<br>
+4. Tim Ferriss<br>
+5. Yuval Noah Harari<br>
+6. Taylor Pearson<br>
+7. Peter Diamandis<br>
+8. Dalai Lama<br>
+9. Garry Kasparov<br>
+10. Richard Branson<br>
 <br><br>
 
-#### My bucket list
-Do:
-- ~~Skydiving at 18k feet~~
-- ~~Bungee Jumping at 150m~~
-- ~~Run with the bulls at San Fermin~~
-- Swim with sharks
-- Swim with dolphins
-- ~~Swim with manta rays~~
-- Fly in a hot air balloon
-- Parasail at >150m
-- ~~Whitewater rafting at >7 level rapids~~
-- ~~Sail a boat~~
-- Snowboard a black diamond
-- ~~Run a half marathon~~
-- Run a marathon
-- Finish a triathalon
-- Toboggan
-- Climb Mount Kilimanjaro
-- Walk on hot coals
-- ~~Catch an 80pound fish~~
-- ~~Find gold~~
-- Get published as an author
-- Visit the White House
-- Go to the Super Bowl
-- ~~Go to an AFL Grand Final~~
-- ~~Go to a World Cup Game~~
-- Go to a World Series Game
-- Start a chariry
-- Donate >$10mil to the underprivileged
-- Spend a Week at a Silent Temple
-- Give a TED talk
-- ~~Make a prime-time TV appearance as an actor~~
-- Make a prime-time TV appearance as a backup dancer
-- Spar With a Pro Boxer
-- Play off a negative golf handicap
-- Make a hole in one
-- ~~Full fast for 3 days~~
-- Full fast for 7 days
-- ~~30 Days of Giving Back~~
-- ~~30 Days of No Complaints~~
-- ~~30 Days of Eating only McDonalds~~
-- ~~Get tattooed by a Monk~~
-- ~~Rave at the Ministry of Sound in London~~
-- Rescue an animal
-- Drive a Bugatti
-- Go in a Submarine
-- Sleep in one out of the top ten haunted houses in the world
-- Memorize every country in the world
-- Party in Goa
-- Party in Ibiza
-- ~~Anzac Day in Gallipoli~~
-- ~~Songkran Water Festival in Thailand~~
-- ~~St Patrick's Day in Ireland~~
-- Carnival in Brazil
-- ~~Oktoberfest in Germany~~
-- ~~La Tomatina in Spain~~
-- Cannes film festival in France
-- Burning man in USA
-- ~~Ha Long Bay in Vietnam~~
-- ~~Full moon party in Koh phangan~~
-- Día de los Muertos in Mexico
-- ~~Floating Lantern festival in Thailand~~
-- ~~Temples of Angkor in Cambodia~~
-- ~~Party in Freetown Christiania in Copenhagen~~
-- Hike the Wadi Rum Desert in Jordan
-- ~~Climb the Eiffel Tower~~
-- ~~Swim the Great Barrier Reef~~
-- Safari the Serengeti in Tanzania
-- Ski the Swiss Alps in Switzerland
-- Hike the Inca Trail in Peru
-- Hike Cinque Terre in Italy
-- Sit on the Edge of Preikestolen in Norway
-- ~~Snorkel the Underwater Museum in Mexico~~
-- Eat in the Underwater Hotel in Maldives
-- ~~Tube down the Mekong River in Laos~~
-- Float in the Dead Sea in Jordan/Israel
-- Watch a Sumo Wrestling match in Japan
-- ~~Drink monkey poo coffee in Bali~~
-- Stay in a Glass Igloo in Finland
-- Take the Walk of Faith, Tianmen Mountain
-- ~~Listen to Jazz in the French Quarter, Louisiana~~
-- Meditate at the Budhist Retreat Centre in KwaZulu, Sth Africa
-- Surf in Hawaii
-- ~~Helicopter over Kauai~~
-- ~~See the Biggest Trees on Earth in California~~
-- Meet the Dalai Lama
-- Meet Thich Nhat Hanh
-- Master 3 languages
-- Read each Holy Book (Bible, Qu'ran, Śruti texts, sutras, Tao Te Ching)
-- Stay Awake for 96 Hours
-- Start Fire Without Matches
-- Finish a Rubiks Cube in <5mins
-- Do a survival camp/course
-- Finish a GoRuck challenge
-- Write a patent
-- Eat every strange thing you can eat
-- Drink a glass of Macallan 1937 Single Malt Scotch Whiskey
-- Create a documentary
-
-See:
-- A live Olympic Games
-- Machu Picchu
-- ~~Dharavi slum~~
-- ~~Big Sur~~
-- Yosemite
-- ~~Grand Canyon~~
-- ~~Red light district in Amsterdam~~
-- ~~The Blue Mosque~~
-- ~~Colosseum, Rome~~
-- Pyramids of Giza
-- ~~Cesky Krumlov~~
-- ~~Singapore Botanic Gardens~~
-- Historic Centre of Warsaw
-- Great wall of China
-- Tibet
-- ~~Louvre~~
-- Taj Mahal
-- Greek islands
-- Old Havana, Cuba
-- ~~Stonehenge~~
-- ~~Sky Gardens, Singapore~~
-- ~~Golden Triangle~~
-- Ancient Ruins of Petra
-- Mount Fuji
-- ~~Vatican City~~
-- ~~Guiness Brewary factory~~
-- ~~Buckingham Palace~~
-- ~~Big Ben~~
-- ~~Tower of London~~
-- ~~Basque Country~~
-- ~~San Sebastion~~
-- Pink sand beach, Bahamas
-- the Amazon
-- ~~the Northern Lights (Norway)~~
-- the Northern Lights (Alaska)
-- ~~Times Square~~
-- ~~Vegas~~
-- ~~Hollywood~~
-- ~~Napa~~
-- ~~Route 66~~
-
-
-
-#### Travel / Geography
-
-- I am from originally from Buffalo, New York. I have since lived in
-Palo Alto, Mountain View, San Francisco, Seattle, and New York.
-
-- I've been to ~ 50 countries, some of which I have forgotten, and many of which I would like to revisit.
-
-- In 2016, I visited: Canada, Ethiopia, Austria, Germany, Belgium, Ireland, Northern Ireland, Italy, Romania, Sweden, Norway, Svalbard, Panama, Costa Rica, Uganda, Japan, and the UAE, mostly in that order.
-
-- In 2017, I visited: Canada, Japan, Denmark, Germany, Sweden, Estonia, Russia, the Netherlands, Belgium, the U.K., Spain, Iceland, France, Switzerland, Ethiopia, and Luxembourg.
-
-- In 2018, I visited: Canada, France, Italy, Israel, and the U.K.
-
-- In 2019, I visited: Canada, England, France, and Switzerland. I plan to visit:  Norway.
-
-- I am an Oregon Trail II enthusiast.
-
-#### Fun facts
-
-- I have a list of thousands of ideas, like creating matching bow ties for cats and humans.
-- I almost always have a sketchbook with me.
-- I can't locate every country on a map.
-- I operate a [small angel fund](http://skepticalinvestments.biz/) with terrible returns.
-- I break about 30 traffic laws on an [electric skateboard](https://boostedboards.com/vehicles/shortboards/boosted-mini-x), [onewheel](https://onewheel.com/products/xr), or [bicycle](https://www.citibikenyc.com/) every single day.
-- I added this page because so many people complained that my site was just a resume.
-
-#### I dream of
-
-- always finding inspiration.
-- enabling a brighter future.
-- doing better.
-- no one checking my commit history for early drafts of this file.
