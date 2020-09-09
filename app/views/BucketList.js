@@ -62,19 +62,20 @@ const BucketList = () => (
         • <s>Make a prime-time TV appearance as an actor</s><br/>
         • Make a prime-time TV appearance as a backup dancer<br/>
         • Spar With a Pro Boxer<br/>
-        • Play off a negative golf handicap<br/>
-        • Make a hole in one<br/>
-        • <s>Full fast for 3 days</s><br/>
-        • Full fast for 7 days<br/>
-        • <s>30 Days of Giving Back</s><br/>
-        • <s>30 Days of No Complaints</s><br/>
-        • <s>30 Days of Eating only McDonalds</s><br/>
+        • Play off a -1 golf handicap<br/>
+        • <s>Make a hole in one</s><br/>
+        • <s>Eat no food for 3 full days</s><br/>
+        • Eat no food for 7 full days<br/>
+        • <s>30 straight days of eating only McDonalds</s><br/>
+        • <s>30 straight days of volunteering at different charities</s><br/>
+        • <s>30 straight days without complaining</s><br/>
+        • <s>30 straight days without sugar</s><br/>
         • <s>Get tattooed by a Monk</s><br/>
         • <s>Rave at the Ministry of Sound in London</s><br/>
-        • Rescue an animal<br/>
+        • <s>Rescue an animal</s><br/>
         • Drive a Bugatti<br/>
-        • Go in a Submarine<br/>
-        • Sleep in one out of the top ten haunted houses in the world<br/>
+        • Go deep sea in a Submarine<br/>
+        • Sleep in the Driskill Hotel<br/>
         • Memorize every country in the world<br/>
         • Party in Goa<br/>
         • Party in Ibiza<br/>
@@ -126,7 +127,10 @@ const BucketList = () => (
         • Eat anything someone dares me to eat<br/>
         • Drink a glass of Macallan 1937 Single Malt Scotch Whiskey<br/>
         • Create a documentary<br/>
-        • Be homeless for a night<br/>
+        • Sleep on the street for a night<br/>
+        • Trek the Kokoda Trail<br/>
+        • <s>Trek the Kalalau Trail</s>
+        • Trek the Chadar in the Himalayas
       </div>
       <div className="education">
         <div className="link-to" id="see" />

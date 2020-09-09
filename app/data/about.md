@@ -28,8 +28,8 @@ Wanting more technical experience, I taught myself how to code and sought after 
 Today, I'm reshaping how people work at Junction. It turns out my year 12 psychology teacher made an impact to my career afterall. Now I get to do both brain science and business!
 <br><br>
 
-#### Top 10 Books
-Generally I find it difficult to rank books, there are so many that I have loved. My top 10 list is based on how *impactful books have been on my everyday life*.<br><br>
+#### Books
+Generally I find it difficult to rank books, there are so many that I have loved. My top 10 list is based on how *impactful books have been on my everyday life*.<br>
 1. The Art of Communication - Thich Nhat Hanh<br>
 2. The Checklist Manifesto - Atul Gawande<br>
 3. Moonwalking with Einstein - Joshua Foer<br>
@@ -43,6 +43,7 @@ Generally I find it difficult to rank books, there are so many that I have loved
 <br>
 
 #### Drawing Inspiration From
+Like books, this lisy is likely to fluctuate, but this is currently who are making an *impact on my everyday life*.<br>
 1. Cal Newport<br>
 2. Thich Nhat Hanh<br>
 3. Brene Brown<br>
@@ -53,5 +54,18 @@ Generally I find it difficult to rank books, there are so many that I have loved
 8. Dalai Lama<br>
 9. Garry Kasparov<br>
 10. Richard Branson<br>
-<br><br>
+<br>
 
+#### Favourite places on earth
+Until I visit somewhere new that is worthy of a spot, this list will not change.<br>
+1. (everywhere) - Laos<br>
+2. Hạlong Bay - Vietnam<br>
+3. Kauai - Hawaii (US)<br>
+4. Melbourne - Australia<br>
+5. Koh Tao - Thailand<br>
+6. Chiang Mai - Thailand<br>
+7. Yasawa Islands - Fiji<br>
+8. San Sebastián - Spain<br>
+9. Berlin - Germany<br>
+10. El Nido - Philippines<br>
+<br><br>
