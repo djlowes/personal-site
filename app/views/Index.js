@@ -6,7 +6,7 @@ import work from "../data/work";
 
 import { Modal } from "react-responsive-modal";
 
-const style = { display: "flex", alignItems: "center" };
+const style = { alignItems: "center" };
 
 class Index extends React.Component {
   state = {
@@ -38,6 +38,8 @@ class Index extends React.Component {
             </div>
           </header>
           <p>My condensed resume:</p>
+          <div style ={{'whiteSpace': 'pre-wrap'}}>
+          {
           <span style={style}>
             <img src={work.twilio.image} alt="de_novo" height={22} width={22} />
             &nbsp;Technical lead through rocketship growth at{" "}
@@ -59,6 +61,10 @@ class Index extends React.Component {
               &nbsp;here.
             </a>
           </span>
+          }
+          </div>
+          <div style ={{'whiteSpace': 'pre-wrap'}}>
+          {
           <span style={style}>
             <img src={work.yc.image} alt="de_novo" height={24} width={24} />
             &nbsp;Lead revenue at{" "}
@@ -78,6 +84,10 @@ class Index extends React.Component {
             </a>{" "}
             W17 batch.
           </span>
+          }
+          </div>
+          <div style ={{'whiteSpace': 'pre-wrap'}}>
+          {
           <span style={style}>
             <img src={work.google.image} alt="de_novo" height={24} width={24} />
             &nbsp;Taught{" "}
@@ -95,6 +105,10 @@ class Index extends React.Component {
               &nbsp;Google.&nbsp;
             </a>
           </span>
+          }
+          </div>
+          <div style ={{'whiteSpace': 'pre-wrap'}}>
+          {
           <span style={style}>
             <img src={work.denovo.image} alt="de_novo" height={22} width={22} />
             &nbsp;Built a{" "}
@@ -106,6 +120,10 @@ class Index extends React.Component {
             </a>{" "}
             and sold it in an all-cash deal.
           </span>
+          }
+          </div>
+          <div style ={{'whiteSpace': 'pre-wrap'}}>
+          {
           <span style={style}>
             <img
               src={work.ebrandz.image}
@@ -122,6 +140,8 @@ class Index extends React.Component {
             </a>{" "}
             and sold it in an all-cash deal.
           </span>
+          }
+          </div>
           <br />
           <p>
             If you want to know more about me, here's an
