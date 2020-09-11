@@ -3,8 +3,12 @@
 I'm a cross between [this guy](https://www.youtube.com/watch?v=9QCgqQdmr0M) and [this guy](https://www.youtube.com/watch?v=sVpsZxR89Mg). I do my best to balance a compulsive work habit and unhealthy commitment to completing a task/project with family time. If [this isn't the best gift world, I don't know what is](/images/about/axel.jpg).
 <br><br>
 
-I try to stay compassionate [(I wrote it on my arm)](/images/about/arm.jpg), but it's easy to get caught up in the hustle. I have constant shame and anxiety about not doing more in my life to date, but then I realize how lucky I am. [This is how many people live in extreme poverty around the world](https://worldpoverty.io/). I'm a very extroverted introvert and I'm an enneagram 3,1,8 (at the time of you reading this I may have forgotten what this represents).
+I try to stay compassionate [(I wrote it on my arm)](/images/about/arm.jpg), but it's easy to get caught up in the hustle. I also try and avoid feeling shame about the perception of not accomplishing more in my life to date, sometimes I realize how lucky I am: [This is how many people live in extreme poverty around the world](https://worldpoverty.io/). I value fairness above all else and dislike social stratification. Regardless of who you are, where you were born, what your job title is, what school you attended and how many twitter followers you have, I will attempt to treat you exactly the same. I'm committed to reverse engineering unconscious bias through repition - [so reach out to me!](https://twitter.com/djlowes)
 <br><br>
+
+I train hard and work harder. Barring injury, I am likely competing for an Ironman right now. For anyone else that geeks out on personality assessments, I'm an Enneagram 3,1,8, have a 'Driving' Social Style and am in the 90th percentile for 'Ambition', 'Learning Approach' and 'Inquisitive' on the Hogan's Personality Inventory Assessment.
+<br><br>
+
 #### Currently
 I am co-founder and COO at [Junction](https://getjunction.io).
 <br><br>
@@ -15,7 +19,7 @@ Of course, my career went a different way. The only thing I love more than psych
 <br><br>
 Thailand was my first stop after college. I lived and volunteered at a children's shelter for 2 years. It profoundly changed me. As best I can, I live by the [noble eightfold path](https://en.wikipedia.org/wiki/Noble_Eightfold_Path) (which is also tattooed on my body). After that, I visited these 72 countries.
 <br><br>
-When I got back home, it was go-time. I finished my Masters in Social Science whilst working full-time for Telstra Business. My goal was to get a job for the World Bank or IMF. Only I realized these large INGOs are assholes and philanthropy was the way I could truly make a difference. I've embraced capitalism ever since.
+When I got back home, it was go-time. I finished my Masters in Social Science whilst working full-time for Telstra Business. My goal was to get a job for the World Bank or IMF. Only I realized these large INGOs are assholes and philanthropy was the way I could truly make a difference. Since then, I've been on a mission.
 <br><br>
 In 2013 I started De Novo Digital and brokered commercial rights to eBrandz in Australia, both were digital agencies. I grew a team from 2 to 45, getting to >$1mil ARR within 18months. There were more exciting things to do, so I cashed out to private equity in 2016.
 <br><br>
@@ -23,9 +27,9 @@ Google had asked me to facilitate training workshops to their Adwords premier pa
 <br><br>
 Snappr was a good idea - "the Uber for photography". In 2016 I joined the founding team that took Snappr from Australia to the valley through YCombinator. I grew GMV from 0-$1mil run rate in 7 months.
 <br><br>
-Wanting more technical experience, I taught myself how to code and sought after the most technical job on the market whilst still working within a revenue team. I joined the solutions engineering team at twilio in 2018. During my team here I contribued to >$50mil realized ARR and founded the technical leadership program.
+Wanting more technical experience, I taught myself how to code and sought after the most technical job in the market whilst still working inside a revenue unit. I joined the solutions engineering team at twilio in 2018. During my time here I contribued to >$50mil realized ARR and founded the technical leadership program.
 <br><br>
-Today, I'm reshaping how people work at Junction. It turns out my year 12 psychology teacher made an impact to my career afterall. Now I get to do both brain science and business!
+Back to today - I'm reshaping how people work at Junction. It turns out my year 12 psychology teacher made an impact on my career afterall. Now I get to do both brain science and business!
 <br><br>
 
 #### Books
@@ -43,7 +47,7 @@ Generally I find it difficult to rank books, there are so many that I have loved
 <br>
 
 #### Drawing Inspiration From
-Like books, this lisy is likely to fluctuate, but this is currently who are making an *impact on my everyday life*.<br>
+Like books, this list is likely to fluctuate, but this is currently who is making the biggest *impact on my everyday life*.<br>
 1. Cal Newport<br>
 2. Thich Nhat Hanh<br>
 3. Brene Brown<br>

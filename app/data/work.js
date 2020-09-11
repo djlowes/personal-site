@@ -17,6 +17,9 @@ const work = {
   marketcap: {
     image: './images/marketcap.png',
   },
+  junction: {
+    image: './images/work/Junction.png',
+  },
 };
 
 export default work;

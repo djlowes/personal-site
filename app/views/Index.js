@@ -38,10 +38,24 @@ class Index extends React.Component {
             </div>
           </header>
           <p>My condensed resume:</p>
+          <b>Now:</b>
           <div style ={{'whiteSpace': 'pre-wrap'}}>
           {
           <span style={style}>
-            <img src={work.twilio.image} alt="de_novo" height={22} width={22} />
+            <img src={work.junction.image} alt="junction" height={18} width={18} />
+            &nbsp;COO at{" "}
+            <a href="https://www.getjunction.io" target="_blank">
+              Junction.&nbsp;
+            </a>
+            The future of work.
+          </span>
+          }
+          </div>
+          <b>Previous:</b>
+          <div style ={{'whiteSpace': 'pre-wrap'}}>
+          {
+          <span style={style}>
+            <img src={work.twilio.image} alt="twilio" height={18} width={18} />
             &nbsp;Technical lead through rocketship growth at{" "}
             <a href="https://twilio.com" target="_blank">
               &nbsp;twilio.&nbsp;
@@ -66,7 +80,7 @@ class Index extends React.Component {
           <div style ={{'whiteSpace': 'pre-wrap'}}>
           {
           <span style={style}>
-            <img src={work.yc.image} alt="de_novo" height={24} width={24} />
+            <img src={work.yc.image} alt="yc" height={18} width={18} />
             &nbsp;Lead revenue at{" "}
             <a href="https://snappr.co" target="_blank">
               &nbsp;Snappr.&nbsp;
@@ -89,7 +103,7 @@ class Index extends React.Component {
           <div style ={{'whiteSpace': 'pre-wrap'}}>
           {
           <span style={style}>
-            <img src={work.google.image} alt="de_novo" height={24} width={24} />
+            <img src={work.google.image} alt="google" height={18} width={18} />
             &nbsp;Taught{" "}
             <a
               href="https://www.thinkwithgoogle.com/marketing-resources/micro-moments/micro-moments-understand-new-consumer-behavior/"
@@ -110,7 +124,7 @@ class Index extends React.Component {
           <div style ={{'whiteSpace': 'pre-wrap'}}>
           {
           <span style={style}>
-            <img src={work.denovo.image} alt="de_novo" height={22} width={22} />
+            <img src={work.denovo.image} alt="de_novo" height={18} width={18} />
             &nbsp;Built a{" "}
             <a
               href="https://web.archive.org/web/20170218071207/http://www.denovodigital.com.au/"
@@ -118,7 +132,7 @@ class Index extends React.Component {
             >
               &nbsp;digital agency&nbsp;
             </a>{" "}
-            and sold it in an all-cash deal.
+            and sold it to private equity.
           </span>
           }
           </div>
@@ -128,8 +142,8 @@ class Index extends React.Component {
             <img
               src={work.ebrandz.image}
               alt="de_novo"
-              height={24}
-              width={24}
+              height={18}
+              width={18}
             />
             &nbsp;Built a{" "}
             <a
@@ -138,7 +152,7 @@ class Index extends React.Component {
             >
               &nbsp;white-labelled SEO dashboard&nbsp;
             </a>{" "}
-            and sold it in an all-cash deal.
+            and sold it to private equity.
           </span>
           }
           </div>
