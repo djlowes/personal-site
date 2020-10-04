@@ -21,7 +21,7 @@ const pages = [
     heading: 'WHO I"VE WORKED WITH',
   },
   {
-    route: '/writing',
+    route: writing,
     title: 'Essays | David J Lowes',
     heading: 'ESSAYS',
   },

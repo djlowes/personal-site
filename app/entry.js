@@ -9,7 +9,7 @@ import About from './views/About';
 import Index from './views/Index';
 import NotFound from './views/NotFound';
 import BucketList from './views/BucketList';
-import People from './views/People';
+import Writing from './views/Writing';
 import Clients from './views/Clients';
 
 // All of our CSS
@@ -21,7 +21,7 @@ ReactDOM.render(
     <Switch>
       <Route exact path="/" component={Index} />
       <Route path="/about" component={About} />
-      <Route path="/want-to" component={People} />
+      <Route path="/writing" component={Writing} />
       <Route path="/bucket-list" component={BucketList} />
       <Route path="/worked-with" component={Clients} />
       {/* Only useful in development mode */}

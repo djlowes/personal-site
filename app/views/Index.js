@@ -51,6 +51,29 @@ class Index extends React.Component {
           </span>
           }
           </div>
+          <div style ={{'whiteSpace': 'pre-wrap'}}>
+          {
+          <span style={style}>
+            <img src={work.sales_coder.image} alt="sales_coder" height={18} width={18} />
+            &nbsp;Experimenting at{" "}
+            <a href="https://www.salescoder.com" target="_blank">
+              Sales Coder.&nbsp;
+            </a>
+            Teaching AEs how to code.
+          </span>
+          }
+          </div>
+          <div style ={{'whiteSpace': 'pre-wrap'}}>
+          {
+          <span style={style}>
+            <img src={work.austin_angel.image} alt="sales_coder" height={18} width={18} />
+            &nbsp;Volunteer at{" "}
+            <a href="https://www.austinangels.com/" target="_blank">
+              Austin Angels.&nbsp;
+            </a>
+          </span>
+          }
+          </div>
           <b>Previous:</b>
           <div style ={{'whiteSpace': 'pre-wrap'}}>
           {
@@ -159,7 +182,7 @@ class Index extends React.Component {
           <br />
           <p>
             If you want to know more about me, here's an
-            <Link to="/about">&nbsp;extended bio</Link>. Sometimes <Link to="/writing">I write about things</Link> at the intersection of business, technology and psychology. I've worked with some{" "}
+            <Link to="/about">&nbsp;extended bio</Link>. Sometimes <a href="https://djlowes.substack.com/" target="_blank">I write about things</a> at the intersection of business, technology and psychology. I've worked with some{" "}
             <Link to="/worked-with">world class teams</Link> and I like to learn and <Link to="/about#books">read</Link>. I've ticked a few things off my
             <Link to="/bucket-list"> bucket list</Link>, but there's still lots to see and do.
           </p>

@@ -20,6 +20,12 @@ const work = {
   junction: {
     image: './images/work/Junction.png',
   },
+  sales_coder: {
+    image: './images/work/sales_coder.png',
+  },
+  austin_angel: {
+    image: './images/work/austin_angel.png',
+  },
 };
 
 export default work;
